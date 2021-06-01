@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "code-runner.runInTerminal": "true",
+        "iostream": "cpp"
+    }
+}
